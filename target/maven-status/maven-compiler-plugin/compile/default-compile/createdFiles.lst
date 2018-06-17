@@ -1,6 +1,9 @@
-com/radpac/CryptoChecker/LoginController.class
+com/radpac/CryptoChecker/LskController.class
+com/radpac/CryptoChecker/EthController.class
 com/radpac/CryptoChecker/Ticker.class
 com/radpac/CryptoChecker/CryptoCheckerApplication.class
+com/radpac/CryptoChecker/ControllerInterface.class
+com/radpac/CryptoChecker/LtcController.class
 com/radpac/CryptoChecker/User.class
 com/radpac/CryptoChecker/HomeController.class
 com/radpac/CryptoChecker/BtcController.class

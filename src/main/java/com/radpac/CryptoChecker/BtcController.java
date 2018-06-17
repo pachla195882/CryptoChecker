@@ -13,9 +13,13 @@ import org.springframework.web.bind.annotation.RestController;
  * @author radekpachla
  */
 @RestController
-public class BtcController {
+public class BtcController implements ControllerInterface {
+
+    Ticker btcplnticker = restTemplate.getForObject("https://bitbay.net/API/Public/BTCPLN/ticker.json", Ticker.class);
+
     @RequestMapping("/btc")
-    public String btc(){
-        return "This is btc/pln";
+    @Override
+    public String output() {
+        return btcplnticker.toString();
     }
 }
