@@ -1,5 +1,13 @@
+com/radpac/CryptoChecker/configuration/SecurityConfiguration.class
+com/radpac/CryptoChecker/model/Role.class
+com/radpac/CryptoChecker/controller/HomeController.class
+com/radpac/CryptoChecker/UserService.class
+com/radpac/CryptoChecker/model/User.class
+com/radpac/CryptoChecker/repository/RoleRepository.class
+com/radpac/CryptoChecker/controller/CurrenciesController.class
+com/radpac/CryptoChecker/configuration/WebMvcConfig.class
+com/radpac/CryptoChecker/repository/UserRepository.class
 com/radpac/CryptoChecker/Ticker.class
 com/radpac/CryptoChecker/CryptoCheckerApplication.class
-com/radpac/CryptoChecker/User.class
-com/radpac/CryptoChecker/HomeController.class
-com/radpac/CryptoChecker/CurrenciesController.class
+com/radpac/CryptoChecker/controller/LoginController.class
+com/radpac/CryptoChecker/UserServiceImpl.class

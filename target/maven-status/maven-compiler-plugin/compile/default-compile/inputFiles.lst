@@ -1,5 +1,13 @@
-/Users/radekpachla/Documents/Dokumenty — MacBook Pro (Radek)/GitHub/CryptoChecker/src/main/java/com/radpac/CryptoChecker/User.java
-/Users/radekpachla/Documents/Dokumenty — MacBook Pro (Radek)/GitHub/CryptoChecker/src/main/java/com/radpac/CryptoChecker/HomeController.java
-/Users/radekpachla/Documents/Dokumenty — MacBook Pro (Radek)/GitHub/CryptoChecker/src/main/java/com/radpac/CryptoChecker/CurrenciesController.java
+/Users/radekpachla/Documents/Dokumenty — MacBook Pro (Radek)/GitHub/CryptoChecker/src/main/java/com/radpac/CryptoChecker/repository/UserRepository.java
+/Users/radekpachla/Documents/Dokumenty — MacBook Pro (Radek)/GitHub/CryptoChecker/src/main/java/com/radpac/CryptoChecker/UserService.java
+/Users/radekpachla/Documents/Dokumenty — MacBook Pro (Radek)/GitHub/CryptoChecker/src/main/java/com/radpac/CryptoChecker/model/User.java
+/Users/radekpachla/Documents/Dokumenty — MacBook Pro (Radek)/GitHub/CryptoChecker/src/main/java/com/radpac/CryptoChecker/configuration/WebMvcConfig.java
+/Users/radekpachla/Documents/Dokumenty — MacBook Pro (Radek)/GitHub/CryptoChecker/src/main/java/com/radpac/CryptoChecker/controller/CurrenciesController.java
+/Users/radekpachla/Documents/Dokumenty — MacBook Pro (Radek)/GitHub/CryptoChecker/src/main/java/com/radpac/CryptoChecker/controller/LoginController.java
+/Users/radekpachla/Documents/Dokumenty — MacBook Pro (Radek)/GitHub/CryptoChecker/src/main/java/com/radpac/CryptoChecker/configuration/SecurityConfiguration.java
+/Users/radekpachla/Documents/Dokumenty — MacBook Pro (Radek)/GitHub/CryptoChecker/src/main/java/com/radpac/CryptoChecker/UserServiceImpl.java
+/Users/radekpachla/Documents/Dokumenty — MacBook Pro (Radek)/GitHub/CryptoChecker/src/main/java/com/radpac/CryptoChecker/controller/HomeController.java
+/Users/radekpachla/Documents/Dokumenty — MacBook Pro (Radek)/GitHub/CryptoChecker/src/main/java/com/radpac/CryptoChecker/model/Role.java
 /Users/radekpachla/Documents/Dokumenty — MacBook Pro (Radek)/GitHub/CryptoChecker/src/main/java/com/radpac/CryptoChecker/CryptoCheckerApplication.java
+/Users/radekpachla/Documents/Dokumenty — MacBook Pro (Radek)/GitHub/CryptoChecker/src/main/java/com/radpac/CryptoChecker/repository/RoleRepository.java
 /Users/radekpachla/Documents/Dokumenty — MacBook Pro (Radek)/GitHub/CryptoChecker/src/main/java/com/radpac/CryptoChecker/Ticker.java
